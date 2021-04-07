@@ -7,9 +7,12 @@ We meet bi-weekly on Wednesdays in a timeslot that alternates to hopefully suppo
 We communicate via the IETF scim mailing list, you can [subscribe here](https://www.ietf.org/mailman/listinfo/scim)
 
 Meetings are as follows:
+ * 8am pacific time every 1st Wednesday
+ * 3pm pacific time every 3rd Wednesday 
 
+ICS Calendar link for meetings:  https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/25ef962b-555f-4781-b533-bfe7be451be8/cid-95C8043F862EFECA/calendar.ics
 
-
+HTML Calendar link for meetings:  https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/25ef962b-555f-4781-b533-bfe7be451be8/cid-95C8043F862EFECA/index.html
 ## Meetings and Agenda 
 
 
