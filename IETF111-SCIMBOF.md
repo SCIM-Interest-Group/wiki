@@ -1,20 +1,21 @@
 # IETF 111 BOF Agenda
-Status of BOF proposal:  not yet accepted
-Name of session:  SCIM Industry Next Steps
-Requested length:  1 hour
+* Status of BOF proposal:  not yet accepted
+* Name of session:  SCIM Industry Next Steps
+* Requested length:  1 hour
 
 ## Overview
-For the last several months, company and individual representatives interested in moving the SCIM 2.0 Specification (RFCs 7642,43 and 44) have been meeting to discuss implementation experiences, review draft proposals that have expired, and to talk about the paper cuts many in the identity world feel could be improved by revisiting SCIM as a protocol and schema.
+For the last several months, company and individual representatives interested in moving the SCIM 2.0 Specification Family (RFC series ([7642](https://https://datatracker.ietf.org/doc/html/rfc7642), [7643](https://https://datatracker.ietf.org/doc/html/rfc7643), [7644](https://https://datatracker.ietf.org/doc/html/rfc7644))) forward have been meeting to discuss implementation experiences, review draft proposals that have expired, and to talk about the paper cuts many in the identity world feel could be improved by revisiting SCIM as a protocol and schema.  You can find the notes of these meetings as well as calendar times and recordings at the [SCIM IG Github page](https://github.com/SCIM-Interest-Group/wiki).
 
 ## Why an IETF BOF?
-While it is true that the original SCIM working group is long gone, IETF continues to be the central community for scim discussion via the still existing SCIM mailing list.  We are looking for feedback from the wider IETF community in addition to the identity experts that regularly attend our interest group meetings around whether it makes sense to recharter a new effort around the SCIM family. 
+We want to explore the pain and the opportunity that exists in this space, and are looking for feedback from the wider IETF community in addition to the identity experts that regularly attend our interest group meetings around whether it makes sense to recharter a new effort in this area.  The proposed BOF chair is Pamela Dingle.
 
 
 ## Topics for Consideration
 Topics listed so far for consideration:
-* Paper cuts (20 min):  What do implementers today find good and bad about SCIM 2.0
-* Draft review (20 min):  What expired drafts are relevant today and how could they be improved 
-* New work:  (20 min) A small presentation on new work, for feedback from the larger group
+* Paper cuts (15 min):  What do implementers today find good and bad about SCIM 2.0
+* Draft review (15 min):  What expired drafts are relevant today and how could they be improved 
+* New work:  (15 min) A small presentation on new work, for feedback from the larger group
+* Next steps: (15 min)  Where should we go next? Is rechartering right and if so what should we prioritize?
 
 ## Existing independent Drafts
 
