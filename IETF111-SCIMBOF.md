@@ -8,10 +8,6 @@
 ## Overview
 For the last several months, company and individual representatives interested in moving the SCIM 2.0 Specification Family (RFC series ([7642](https://https://datatracker.ietf.org/doc/html/rfc7642), [7643](https://https://datatracker.ietf.org/doc/html/rfc7643), [7644](https://https://datatracker.ietf.org/doc/html/rfc7644))) forward have been meeting to discuss implementation experiences, review draft proposals that have expired, and to talk about the paper cuts many in the identity world feel could be improved by revisiting SCIM as a protocol and schema.  You can find the notes of these meetings as well as calendar times and recordings at the [SCIM IG Github page](https://github.com/SCIM-Interest-Group/wiki).
 
-## Why an IETF BOF?
-We want to explore the pain and the opportunity that exists in this space, and are looking for feedback from the wider IETF community in addition to the identity experts that regularly attend our interest group meetings around whether it makes sense to recharter a new effort in this area.  The proposed BOF chair is Pamela Dingle.
-
-
 ## BoF Schedule
 Chairs: Barry Leiba, Nancy Cam Winget
 * Introduction (15 minutes) 
