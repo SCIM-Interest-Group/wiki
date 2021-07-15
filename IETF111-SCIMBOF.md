@@ -23,18 +23,12 @@ Chairs: Barry Leiba, Nancy Cam Winget
 * Next steps: (15 min)  
     * Where should we go next? Is rechartering right and if so what should we prioritize?
 
-## Appendix: Existing independent Drafts
+### Reference: Existing independent Drafts
 
-      * [SCIM Protocol: Multi-Value Paging Extension](https://tools.ietf.org/id/draft-hunt-scim-mv-paging-00.html)	
-        * Individual Draft expired 2/8/2020 
-       *  [Cursor-based Pagination of SCIM Resources](https://tools.ietf.org/html/draft-peterson-scim-cursor-pagination-00)
-          * Individual Draft expired 9/2/2017
-       * [SCIM Profile for Provisioning Users Into Relying Party Applications](https://tools.ietf.org/id/draft-wahl-scim-profile-00.html)
-         * Individual Draft expired 12/23/2019
-       * [SCIM Soft Delete](https://tools.ietf.org/html/draft-ansari-scim-soft-delete-00)
-          * Individual Draft expired 9/10/2015
-       * [SCIM Extension for Privileged Access Management](https://tools.ietf.org/html/draft-grizzle-scim-pam-ext-01)
-         * Individual Draft expired 4/21/2018
-     * [SCIM Profile for Provisioning Users Into Relying Party Applications](https://tools.ietf.org/id/draft-wahl-scim-profile-00.html)
-         * Individual Draft expired 12/23/2019
+ * [SCIM Protocol: Multi-Value Paging Extension](https://tools.ietf.org/id/draft-hunt-scim-mv-paging-00.html)	
+ *  [Cursor-based Pagination of SCIM Resources](https://tools.ietf.org/html/draft-peterson-scim-cursor-pagination-00)
+ * [SCIM Profile for Provisioning Users Into Relying Party Applications](https://tools.ietf.org/id/draft-wahl-scim-profile-00.html)
+ * [SCIM Soft Delete](https://tools.ietf.org/html/draft-ansari-scim-soft-delete-00)
+ * [SCIM Extension for Privileged Access Management](https://tools.ietf.org/html/draft-grizzle-scim-pam-ext-01)
+ * [SCIM Profile for Provisioning Users Into Relying Party Applications](https://tools.ietf.org/id/draft-wahl-scim-profile-00.html)
    
