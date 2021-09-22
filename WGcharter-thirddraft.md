@@ -38,8 +38,22 @@ Additionally, implementation experience with SCIM has surfaced new use cases and
 
 **2022-Jun**: (Informational) Revision of RFC7642 to WGLC
 
+**2022-Jun**: Working group adoption of Draft for Revisions to RFC7643/44
+
 **2022-Jun**: Working Group adoption of I-Ds for coordination/synchronization between domains
 
-**2023-Dec**: Individual drafts for coordination/synchronization between domains 
+**2022-Dec**: Progress (Informational) Revision of RFC7642 to IESG for publication
 
-**2023-Jun**: Revision of RFC7643/44 to WGLC
+**2022-Dec**: Progress I-Ds for Soft Delete to IESG for publication
+
+**2022-Dec**: Progress I-Ds for Multi-valued paging to IESG for publication
+
+**2023-Mar**: Progress I-Ds (either new or existing) for privileged access mgmt to IESG for publication
+
+**2023-Jun**: Progress I-Ds for coordination/synchronization between domains to IESG for publication
+
+**2023-Jun**: Revisions for RFC7643/44 to WGLC
+
+**2023-Dec**: Progress I-Ds Individual drafts for coordination/synchronization between domains to IESG for publication
+
+**2023-Dec**: Progress Revisions for RFC7643/44 to IESG for publication
