@@ -2,7 +2,7 @@
 
 The System for Cross-domain Identity Management (SCIM) specifications provide an HTTP-based protocol (RFC7643) and schema (RFC76744) that makes managing identities in multi-domain scenarios easier.  Since its publication in 2015, SCIM has seen growing adoption.
 
-The first goal of this working group is to incorporate implementation experience; errata and interoperability feedback; and current security and best practices into a revised version of RFC7643 (protocol) and RFC7644 (base schema) suitability for consideration as the Internet Standard level of maturity.
+The first goal of this working group is to incorporate implementation experience; errata and interoperability feedback; and current security and best practices into a revised version of RFC7643 (protocol) and RFC7644 (base schema) suitable for consideration as the Internet Standard level of specification maturity.
 
 Additionally, implementation experience with SCIM has surfaced new use cases and requirements.  The WG will document them in a revision of RFC7642. The WG will also consider publishing extensions to SCIM that have found broad adoption. These extensions may include profiles and schemas for interoperability in additional use cases.
 
@@ -32,14 +32,31 @@ Additionally, implementation experience with SCIM has surfaced new use cases and
 # Milestones
 **2021-Dec**: Working group adoption of I-Ds for Soft Delete 
 
-**2021-Dec**: Working group adoption of I-Ds for Multi-valued paging 
+**2022-Jun**: Working group adtopn of Draft for Revisions to RFC7642 
 
 **2022-Mar**: Working group adoption of I-Ds (either new or existing) for privileged access mgmt
 
+**2022-Mar**: Working group adoption of I-Ds for Multi-valued paging 
+
+**2022-Mar**: Working Group adoption of I-Ds for coordination/synchronization between domains
+
 **2022-Jun**: (Informational) Revision of RFC7642 to WGLC
 
-**2022-Jun**: Working Group adoption of I-Ds for coordination/synchronization between domains
+**2022-Jun**: Working group adoption of Draft for Revisions to RFC7643/44
+
+**2022-Dec**: Progress (Informational) Revision of RFC7642 to IESG for publication
+
+**2022-Dec**: Progress I-Ds for Soft Delete to IESG for publication
+
+**2022-Dec**: Progress I-Ds for Multi-valued paging to IESG for publication
+
+**2023-Mar**: Progress I-Ds (either new or existing) for privileged access mgmt to IESG for publication
+
+**2023-Jun**: Progress I-Ds for coordination/synchronization between domains to IESG for publication
+
+**2023-Jun**: Revisions for RFC7643/44 to WGLC
+
+**2023-Dec**: Progress I-Ds Individual drafts for coordination/synchronization between domains to IESG for publication
 
 **2023-Dec**: Individual drafts for coordination/synchronization between domains 
 
-**2023-Jun**: Revision of RFC7643/44 to WGLC
